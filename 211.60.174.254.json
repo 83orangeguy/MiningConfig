@@ -1,10 +1,10 @@
 {
   "IgnoreLogin": 0,
-  "WaitForManagerAfterSecond": 0,
-  "StartMiningAfterMinute": 0,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 1,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
-  "RestartComputerAfterHour": 6,
+  "RestartComputerAfterHour": 12,
   "SwitchOffMonitor": 1,
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 0,
