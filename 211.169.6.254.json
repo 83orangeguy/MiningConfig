@@ -15,8 +15,8 @@
       "PcNumber": 0,
       "PowerLimit": 80,
       "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 800000,
+      "CoreClkBoost": -200000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     }
