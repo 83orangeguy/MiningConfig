@@ -7,13 +7,13 @@
   "RestartComputerAfterHour": 12,
   "SwitchOffMonitor": 1,
   "SwitchOffMonitorOnMinute": 5,
-  "UseProfile": 0,
+  "UseProfile": 1,
   "ShowWindow": 1,
   "ExceptNvidiaName": ["1060 3G"],
   "Profiles": [
     {
       "PcNumber": 0,
-      "PowerLimit": 73,
+      "PowerLimit": 80,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
